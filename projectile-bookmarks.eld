@@ -1,0 +1,1 @@
+("~/work/tki/kartu/server/" "~/work/try/pro_kerangka/")
